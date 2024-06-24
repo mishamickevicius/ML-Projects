@@ -19,7 +19,10 @@ lib64/
 parts/
 sdist/
 var/
+data/
+Fraud-Detection/data/
 wheels/
+
 share/python-wheels/
 *.egg-info/
 .installed.cfg
