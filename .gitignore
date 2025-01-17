@@ -9,6 +9,7 @@ __pycache__/
 # Datafile extensions
 *.csv
 *.png
+*.json
 
 # Distribution / packaging
 .Python
